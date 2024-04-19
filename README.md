@@ -1,6 +1,6 @@
 # MNIST Digit Classifier
 
-This project contains a Jupyter notebook hosted on Google Colab that demonstrates how to build and train a neural network to classify handwritten digits from the MNIST dataset. The MNIST dataset is a collection of 70,000 grayscale images of handwritten digits (0 through 9) that has been used as the basis for benchmarking classification algorithms.
+This project contains a Jupyter notebook hosted on Google Colab that demonstrates how to build and train a neural network to classify handwritten digits from the MNIST dataset. The MNIST dataset is a collection of 60,000 grayscale images of handwritten digits (0 through 9) that has been used as the basis for benchmarking classification algorithms.
 
 ## Getting Started
 
